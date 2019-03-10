@@ -1,0 +1,975 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+  _____  ___   __ __  ____      __    ___  ____    ___   _      _
+ / ___/ /   \ |  T  T|    \    /  ]  /  _]|    \  /   \ | T    | T
+(   \_ Y     Y|  |  ||  D  )  /  /  /  [_ |  D  )Y     Y| |    | |
+ \__  T|  O  ||  |  ||    /  /  /  Y    _]|    / |  O  || l___ | l___
+ /  \ ||     ||  :  ||    \ /   \_ |   [_ |    \ |     ||     T|     T
+ \    |l     !l     ||  .  Y\     ||     T|  .  Yl     !|     ||     |
+  \___j \___/  \__,_jl__j\_j \____jl_____jl__j\_j \___/ l_____jl_____j
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <title>Rickroll Database: never get rickroll'd again (page 202)</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="rickroll, rick roll, rickrolldb, rickroll db, rickroll database, rickblock, rickroll blocker, Never Gonna Give You Up, Rick Astley, adblock, adblock plus, firefox, blacklist, block rickroll, rickroll blocker, rickroll protection, rickroll detector" />
+	<meta name="author" content="Jamie Wilkinson" />
+
+  <link rel="alternate" type="application/rss+xml" title="RickrollDB updates feed" href="../rss" />
+
+  <link rel="stylesheet" href="../stylesheets/rickblock.css" type="text/css" media="screen" charset="utf-8" />
+
+  <script src="../javascripts/jquery.pack.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../javascripts/jquery.dimensions.js" type="text/javascript" charset="utf-8"></script>
+  <!--<script src="/javascripts/jquery.pagination.js" type="text/javascript" charset="utf-8"></script>-->
+  <script src="../javascripts/rickblock.js" type="text/javascript" charset="utf-8"></script>
+
+	<!-- <script src="/flags.js" type="text/javascript" charset="utf-8"></script> -->
+</head>
+
+<body>
+	<div id="container">
+
+	  <div id="header">
+
+			<div id="title">
+				<a href="../index.html"><img src="../images/rick-donotwant-slice-sm.jpg" alt="RickBlock, The #1 Rickroll Blocker" title="The #1 Rickroll Blocker" class="logo floatLeft" /></a>
+				<br />
+
+		  	<h1><a href="../index.html">Rickroll Database</a></h1>
+				<h2>Saving the Internets... one roll at a time.</h2>
+			</div>
+
+			<!-- status -->
+			<div id="loading"><img src="../images/loading.gif" alt="Loading..." title="Loading..." /></div>
+			<div id="flash"></div>
+
+			<!-- aboot -->
+			<div id="about" class="box clear">
+				<ul>
+					<li><em>Have you or someone you love been rickroll'd?</em> <br />
+						Submit the URL below. </li>
+					<li>Protect yourself by using <a href="http://getfirefox.com">Firefox</a>, installing <a href="https://addons.mozilla.org/en-US/firefox/addon/1865">Adblock Plus</a>
+						and subscribing to the rickroll blacklist &rarr;</li>
+					<li>Help verify the database by confirming or disputing entries</li>
+					<li>What's a rickroll? Watch <a href="http://www.youtube.com/watch?v=4IK-Mk3V8Ts" title="Rickroll 101">Know Your Meme: Rickroll</a></li>
+				</ul>
+			</div>
+
+			<!-- linx -->
+			<div id="ricklist">
+
+				<a class="ricklist" href="https://addons.mozilla.org/en-US/firefox/downloads/file/19510/adblock_plus-0.7.5.3-fx+tb+sm+fl.xpi">Install AdBlockPlus</a>
+				<br />
+
+				<a class="subscribe" href="abp://subscribe/?location=http%3A%2F%2Frickrolldb.com%2Fricklist.txt&amp;title=RickrollDB.com/ricklist.txt">Subscribe to AdBlockPlus Filter</a>
+				<!-- <a class="ricklist" href="/ricklist.txt">RICKLIST.TXT</a> -->
+
+			</div>
+
+			<br class="clear" />
+
+	  </div>
+
+
+	  <div id="main">
+	    
+<div id="add">
+	<form method="get" action="http://rickrolldb.com/entries/new">
+		<label for="url">Rickroll URL</label>
+		<input type="text" name="url" size="22" class="large required clear-on-click" value="http://" />
+		<input type="submit" name="submit" value="submit" class="submit" />
+	</form>
+		
+</div> <!-- /#add -->
+
+<div id="user-info">
+	<!-- you are: <span class="username editable"></span> -->
+</div>
+
+
+<div id="entries">
+
+	        <!-- pagination -->
+        <div class="navigation"><h2>
+                <a class="floatRight rss-link" href="../rss"><img src="../images/feed-icon-28x28.png" alt="RSS" title="RSS feed of new rickrolls" /></a>
+                <div class="prevnext next"><a title="Next page" href="203">&raquo;</a></div>
+                <div class="floatRight" id="page-info">
+                        <!--The Culprits <br />-->
+				
+                <small>
+                                32032 entries;
+                                page 202 of 1601
+                        </small>
+                </div>
+                <div class="prevnext prev"><a title="Previous page" href="201">&laquo</a></div>
+        </h2></div>
+
+
+
+	<!-- rickrolls themselves -->
+	<ul>
+		<li id="entry-6681">
+			<a href="http://1sharedhosting.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://1sharedhosting.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://1sharedhosting.com/" rel="nofollow">1sharedhosting.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6681/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6681/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6681#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6682">
+			<a href="http://hitkaiser.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://hitkaiser.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://hitkaiser.com/" rel="nofollow">hitkaiser.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6682/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">3</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6682/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6682#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6683">
+			<a href="http://fastmanagedhosting.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://fastmanagedhosting.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://fastmanagedhosting.com/" rel="nofollow">fastmanagedhosting.com</a></span>
+				<span class="created_at">
+					added AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6683/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">0</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6683/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6683#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 150px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 150px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6684">
+			<a href="http://soulventures.org/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://soulventures.org/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://soulventures.org/" rel="nofollow">soulventures.org</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6684/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6684/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6684#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6685">
+			<a href="http://bestuscams.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://bestuscams.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://bestuscams.com/" rel="nofollow">bestuscams.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6685/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">10</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6685/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6685#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6686">
+			<a href="http://unlimitedresellerhost.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://unlimitedresellerhost.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://unlimitedresellerhost.com/" rel="nofollow">unlimitedresellerhost.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6686/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6686/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6686#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6687">
+			<a href="http://constancefunk.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://constancefunk.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://constancefunk.com/" rel="nofollow">constancefunk.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6687/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">7</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6687/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6687#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6688">
+			<a href="http://dietwebs.net/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://dietwebs.net/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://dietwebs.net/" rel="nofollow">dietwebs.net</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6688/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6688/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6688#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6689">
+			<a href="http://quickdedicatedserver.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://quickdedicatedserver.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://quickdedicatedserver.com/" rel="nofollow">quickdedicatedserver.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6689/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6689/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6689#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6690">
+			<a href="http://kapiolaniparkonline.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://kapiolaniparkonline.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://kapiolaniparkonline.com/" rel="nofollow">kapiolaniparkonline.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6690/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">3</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6690/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6690#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6691">
+			<a href="http://www.prweb.com/releases/2011/10/prweb8913884.htm" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.prweb.com/releases/2011/10/prweb8913884.htm&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.prweb.com/releases/2011/10/prweb8913884.htm" rel="nofollow">www.prweb.com/releases/2011/10/prweb89138...</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6691/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6691/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6691#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6692">
+			<a href="http://www.antiviruskostenlosrunterladen.de/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.antiviruskostenlosrunterladen.de/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.antiviruskostenlosrunterladen.de/" rel="nofollow">www.antiviruskostenlosrunterladen.de</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6692/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6692/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6692#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6693">
+			<a href="http://www.1-800-home-care.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.1-800-home-care.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.1-800-home-care.com/" rel="nofollow">www.1-800-home-care.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6693/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6693/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6693#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6694">
+			<a href="http://billeater.com/tips/free-money-pay-bills-free-money-bills" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://billeater.com/tips/free-money-pay-bills-free-money-bills&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://billeater.com/tips/free-money-pay-bills-free-money-bills" rel="nofollow">billeater.com/tips/free-money-pay-bills-f...</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6694/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6694/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6694#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6695">
+			<a href="http://www.clepstudyguides.net/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.clepstudyguides.net/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.clepstudyguides.net/" rel="nofollow">www.clepstudyguides.net</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6695/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6695/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6695#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6696">
+			<a href="http://gowindowshosting.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://gowindowshosting.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://gowindowshosting.com/" rel="nofollow">gowindowshosting.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6696/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">2</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6696/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6696#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6697">
+			<a href="http://the-internet-lawyers.net/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://the-internet-lawyers.net/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://the-internet-lawyers.net/" rel="nofollow">the-internet-lawyers.net</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6697/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6697/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6697#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6698">
+			<a href="http://www.africanmangoscams.com/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.africanmangoscams.com/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.africanmangoscams.com/" rel="nofollow">www.africanmangoscams.com</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6698/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6698/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6698#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6699">
+			<a href="http://www.studioleaks.info/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.studioleaks.info/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.studioleaks.info/" rel="nofollow">www.studioleaks.info</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6699/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6699/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6699#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+		<li id="entry-6700">
+			<a href="http://www.actosproblems.org/" rel="nofollow"><img src="http://www.thumbalizr.com/api/?url=http://www.actosproblems.org/&width=190&api_key=b0afe046a661efc630a5a0dc082b9385" alt="" title="" class="screenshot" /></a>
+			
+			<div class="info">			
+				<span class="title"><a href="http://www.actosproblems.org/" rel="nofollow">www.actosproblems.org</a></span>
+				<span class="created_at">
+					added AHHH; last flagged AHHH
+				</span>
+			<div class="flags">			
+				<span class="confirm"><code>+</code> 
+				    <a class="flag hijax" href="http://rickrolldb.com/entries/6700/confirm" rel="nofollow">IT'S A RICKROLL</a> 
+			    <strong class="count">1</strong>
+		    </span>
+				<span class="dispute"><code>-</code> 
+  				  <a class="flag hijax" href="http://rickrolldb.com/entries/6700/dispute" rel="nofollow">not a rickroll</a> 
+				  <strong class="count">0</strong>
+				</span>			
+				<br class="clear" />
+			</div> <!-- /.flags -->
+
+      <span class="thanks"><em></em></span>
+	
+			<div class="comments">
+		   	<a href="../entries/6700#disqus_thread">Comments</a>
+			</div> <!-- /.comments -->
+
+
+
+			<div class="stats">
+				<div style="float: right; display: inline; width: 299px; height: 3px; background-color: #aaa;">&nbsp;</div>
+				<div style="background-color: #fbb; float: right; clear: right; display: inline; width: 0px; height: 10px;">&nbsp;</div>
+				<div style="background-color: #bfb;float: right; display: inline; width: 300px; height: 10px; ">&nbsp;</div>
+			</div> <!-- /.stats -->
+
+		
+  	  </div> <!-- /.info -->
+		</li>
+	
+	
+	
+	</ul>
+
+	<br />
+	        <!-- pagination -->
+        <div class="navigation"><h2>
+                <a class="floatRight rss-link" href="../rss"><img src="../images/feed-icon-28x28.png" alt="RSS" title="RSS feed of new rickrolls" /></a>
+                <div class="prevnext next"><a title="Next page" href="203">&raquo;</a></div>
+                <div class="floatRight" id="page-info">
+                        <!--The Culprits <br />-->
+				
+                <small>
+                                32032 entries;
+                                page 202 of 1601
+                        </small>
+                </div>
+                <div class="prevnext prev"><a title="Previous page" href="201">&laquo</a></div>
+        </h2></div>
+
+
+
+</div> <!-- /#entries -->
+
+
+
+
+<!-- add disqus comment counts -->
+<script type="text/javascript">
+//<[CDATA[
+(function() {
+		links = document.getElementsByTagName('a');
+		query = '?';
+		for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+		}
+		document.write('<script type="text/javascript" src="http://disqus.com/forums/rickrolldb/get_num_replies.js' + query + '"></' + 'script>');
+	})();
+//]]>
+</script>
+
+
+	  </div>
+
+	  <div id="footer">
+			<big><a href="../about">about, thanks, & howto</a> </big>
+			<br /><br />
+
+	    copyfree 2007-2019 <a href="http://jamiedubs.com">Jamie Wilkinson</a>
+		&raquo; <a href="http://jamiedubs.com/contact">email me</a><br />
+	    <br />
+            + <strong><a href="http://github.com/jamiew/rickrolldb" title="RICKBLOCK DEVELOPMENT">source code</a></strong> (ruby on merb) +
+            <br /><br />
+            <a href="http://fffff.at"><img src="../images/fatlab.png" title="FATLAB" alt="FATLAB" border="0" /> <img src="../images/fatlab.png" title="FATLAB" alt="FATLAB" border="0" /> <img src="../images/fatlab.png" title="FATLAB" alt="FATLAB" border="0" /> </a>
+
+
+
+	  </div>
+</div>
+
+<!-- stats -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-96220-12");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-149W7Ang9fLCQ";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-149W7Ang9fLCQ" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-149W7Ang9fLCQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+
+
+</body>
+</html>
